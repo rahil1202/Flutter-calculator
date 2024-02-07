@@ -35,11 +35,6 @@ Follow the steps below to run the app on your local machine. You'll need to make
 3. Open an emulator and run command 'flutter run' <Without quotes> within the cloned repo's folder.
 4. Try it out.
 
-# Contact
-
- - <a href="https://instagram.com/_iamyogesh_"> Instagram: _iamyogesh_ </a>
- - ysyogeshsingh1@gmail.com
-
 
 A few resources to get you started if this is your first Flutter project:
 
